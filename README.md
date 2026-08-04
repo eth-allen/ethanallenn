@@ -4,11 +4,12 @@
 
 ## Portfolio / Blog (Regularly Updated)
 
-[ethana.me](https://ethana.me)
+[dev.ethana.me](https://dev.ethana.me)
 
 ## Contact Me:
 
-📧 [Ethan.Allen@visuae.uk](mailto:Ethan.Allen@visuae.uk)
+📧 [Visuae - Ethan.Allen@visuae.uk](mailto:Ethan.Allen@visuae.uk)
+📧 [Personal - general@ethana.me](mailto:general@ethana.me)
 
 ## Current Stack:
 
