@@ -8,8 +8,9 @@
 
 ## Contact Me:
 
-📧 [Visuae - Ethan.Allen@visuae.uk](mailto:Ethan.Allen@visuae.uk)
-📧 [Personal - general@ethana.me](mailto:general@ethana.me)
+📧 Visuae - [Ethan.Allen@visuae.uk](mailto:Ethan.Allen@visuae.uk)
+<br>
+📧 Personal - [general@ethana.me](mailto:general@ethana.me)
 
 ## Current Stack:
 
