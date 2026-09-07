@@ -2,10 +2,6 @@
 
 <br>
 
-## Portfolio / Blog (Regularly Updated)
-
-[dev.ethana.me](https://dev.ethana.me)
-
 ## Contact Me:
 
 📧 Visuae - [Ethan.Allen@visuae.uk](mailto:Ethan.Allen@visuae.uk)
