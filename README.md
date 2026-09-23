@@ -1,7 +1,3 @@
-# little bits of code etc..
-
-<br>
-
 ## Contact Me:
 
 📧 Visuae - [Ethan.Allen@visuae.uk](mailto:Ethan.Allen@visuae.uk)
